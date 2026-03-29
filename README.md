@@ -1,80 +1,68 @@
-# Hey, I'm Mounika 👋
+<!-- Add this below your intro -->
+<h2>🧠 Currently Working On</h2>
+<ul>
+  <li>🔹 Kubernetes production deployments with Helm</li>
+  <li>🔹 GitOps pipeline using ArgoCD</li>
+  <li>🔹 AWS monitoring with CloudWatch alerts</li>
+</ul>
 
-**Cloud & DevOps Engineer** based in Hyderabad, India 🇮🇳  
-Passionate about automation, scalable infrastructure, and making deployments boring (in the best way).
+<hr>
 
----
+<h2>🚀 Featured Projects</h2>
 
-## 🛠️ Tech Stack
+<div class="project">
+  <h3>🏗️ <a href="https://github.com/i-am-monika/aws-3tier-architecture">AWS Three-Tier Web Architecture</a></h3>
+  <p>Deployed scalable 3-tier architecture on AWS with ALB, Auto Scaling, and secure VPC design — achieving high availability and fault tolerance.</p>
+  <div class="tags">
+    <span class="tag">AWS</span><span class="tag">EC2</span><span class="tag">VPC</span><span class="tag">ALB</span><span class="tag">Auto Scaling</span>
+  </div>
+</div>
 
-**Cloud**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white)
-![VPC](https://img.shields.io/badge/VPC-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazon-cloudwatch&logoColor=white)
+<div class="project">
+  <h3>⚙️ <a href="https://github.com/i-am-monika/cicd-jenkins-argocd">CI/CD Pipeline with Jenkins & ArgoCD</a></h3>
+  <p>Built end-to-end CI/CD pipeline reducing deployment time by 70% — Jenkins for build, Docker for containerization, ArgoCD for GitOps deployment.</p>
+  <div class="tags">
+    <span class="tag">Jenkins</span><span class="tag">Docker</span><span class="tag">Kubernetes</span><span class="tag">ArgoCD</span><span class="tag">GitOps</span>
+  </div>
+</div>
 
-**CI/CD & Automation**
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
+<div class="project">
+  <h3>🌿 <a href="https://github.com/i-am-monika/petclinic-cicd">PetClinic CI/CD Automation</a></h3>
+  <p>Automated build and deployment pipeline for Java application using Maven and Jenkins — enabling continuous integration and faster releases.</p>
+  <div class="tags">
+    <span class="tag">Java</span><span class="tag">Maven</span><span class="tag">Jenkins</span><span class="tag">CI/CD</span>
+  </div>
+</div>
 
-**Containers & Orchestration**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white)
+<div class="project">
+  <h3>🏗️ <a href="https://github.com/i-am-monika/terraform-aws-infra">Terraform Infrastructure Provisioning</a></h3>
+  <p>Provisioned AWS infrastructure (VPC, EC2, S3) using Terraform with remote state management — enabling reproducible infrastructure setup.</p>
+  <div class="tags">
+    <span class="tag">Terraform</span><span class="tag">AWS</span><span class="tag">IaC</span><span class="tag">S3 Backend</span>
+  </div>
+</div>
 
-**Infrastructure as Code**
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+<hr>
 
-**Languages & Tools**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<h2>📋 Certifications</h2>
+<ul class="cert-list">
+  <li>🥉 <strong>AWS Cloud Practitioner Essentials</strong> — AWS <em>(Feb 2025)</em></li>
+  <li>🥉 <strong>AWS Technical Essentials</strong> — AWS <em>(Feb 2025)</em></li>
+  <li>🏅 <strong>Deloitte Technology Job Simulation</strong> — Forage <em>(Mar 2026)</em></li>
+</ul>
 
----
+<hr>
 
-## 🚀 Featured Projects
+<h2>🤝 Let's Connect</h2>
+<div class="connect-badges">
+  <a href="https://www.linkedin.com/in/mounika-g-129363285" class="badge li">LinkedIn</a>
+  <a href="https://i-am-monika.github.io/" class="badge gh">Portfolio</a>
+  <a href="mailto:yourmail@gmail.com" class="badge gmail">Email</a>
+</div>
 
-### 🏗️ [AWS Three-Tier Web Architecture](https://github.com/i-am-monika/3tier)
-Designed and deployed a production-grade three-tier architecture on AWS with load balancing, auto-scaling, and VPC networking.  
-`AWS` `EC2` `VPC` `ALB` `Networking`
+<hr>
 
-### ⚙️ [CI/CD Pipeline with Jenkins & ArgoCD](https://github.com/i-am-monika/Jenkins)
-End-to-end CI/CD pipeline — Jenkins builds, Docker containerizes, ArgoCD deploys to Kubernetes using GitOps methodology.  
-`Jenkins` `Docker` `Kubernetes` `ArgoCD` `GitOps`
-
-### 🔧 [Automation with Maven](https://github.com/i-am-monika/automation-with-maven)
-Automated build, test, and deployment of the PetClinic Java application using Maven — demonstrating CI/CD fundamentals.  
-`Java` `Maven` `Git` `CI/CD`
-
-
----
-
-## 📜 Certifications
-
-- 🏅 **AWS Cloud Practitioner Essentials** — AWS / Google (Feb 2025)
-- 🏅 **AWS Technical Essentials** — AWS / Google (Feb 2025)
-
----
-
-## 📈 GitHub Stats
-
-![Mounika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-monika&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-monika&layout=compact&hide_border=true&theme=default)
-
----
-
-## 📬 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mounika-g-129363285)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://i-am-monika.github.io)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mounikagarjakunta@gmail.com)
-
----
-
-*Open to remote DevOps / Cloud Engineer roles 🌏*
-
-
+<!-- SEO Keywords -->
+<p style="font-size:12px; color:#8b949e;">
+DevOps | AWS | Kubernetes | Docker | Terraform | CI/CD | Jenkins | GitOps | Cloud Engineer | Infrastructure Automation
+</p>
